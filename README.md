@@ -1,8 +1,3 @@
-
-<div style="text-align:center; background-image:url(./images/environment/banner-workspace.png); background-size: cover; width: 100%; height: 6em; padding: 0.5em 0; margin: 1em 0">
-  <img src="./images/portrait192.png" alt="Portrait Icon">
-</div>
-
 # QuevDev
 
 ## **About**
