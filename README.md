@@ -1,6 +1,6 @@
 # QuevDev
 ### **About**
-I'm Quev-Dev, a front-end developer who works on small music and game projects in my spare time. If you'd like to contact me or view more information about me, you can check out my portfolio linked below:
+I'm QuevDev, a front-end developer who works on small music and game projects in my spare time. If you'd like to contact me or view more information about me, you can check out my portfolio linked below:
 
 [Portfolio](https://nevinklein.netlify.app/)
 
