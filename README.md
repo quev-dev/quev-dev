@@ -19,7 +19,6 @@ Here are some of the technologies I've worked with to build my applications:
   <img src="./images/icons/toolTailwind.png" style="display:inline-block; width: 2em; margin: 0px 10px;">
   <img src="./images/icons/toolNodeJS.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
   <img src="./images/icons/toolGitbash.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
-  <img src="./images/icons/toolGithub.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
   <img src="./images/icons/toolVSCode.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
 </div>
 
