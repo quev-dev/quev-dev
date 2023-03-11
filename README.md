@@ -6,24 +6,6 @@ I'm QuevDev, a front-end developer who works on small music and game projects in
 
 ---
 
-### **Known Technologies**
-Here are some of the technologies I've worked with to build my applications:
-
-
-<div style="text-align:left">
-  <img src="./images/icons/toolHTML.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
-  <img src="./images/icons/toolCSS.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
-  <img src="./images/icons/toolJavascript.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
-  <img src="./images/icons/toolPython.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
-  <img src="./images/icons/toolReact.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
-  <img src="./images/icons/toolTailwind.png" style="display:inline-block; width: 2em; margin: 0px 10px;">
-  <img src="./images/icons/toolNodeJS.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
-  <img src="./images/icons/toolGitbash.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
-  <img src="./images/icons/toolVSCode.svg" style="display:inline-block; width: 2em; margin: 0px 10px;">
-</div>
-
----
-
 ### **Socials**
 You can find me, as well as any updates I post on my current projects through the social media platforms linked below:
 
