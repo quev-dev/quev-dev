@@ -1,4 +1,4 @@
-# 👋 Welcome!
+👋 Welcome!
 
 I'm a front-end web developer looking to hone in on my skills and create great applications. In my spare time, I pursue art, music and game development.
 
